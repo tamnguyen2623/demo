@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VS 2022\\APIDemo\\",
+  "WorkspaceRootPath": "D:\\demo\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5515D391-3677-468D-A0A8-090CA7BD8F8F}|APIDemo.csproj|d:\\vs 2022\\apidemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5515D391-3677-468D-A0A8-090CA7BD8F8F}|APIDemo.csproj|d:\\demo\\backend\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5515D391-3677-468D-A0A8-090CA7BD8F8F}|APIDemo.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ValuesController.cs",
-              "DocumentMoniker": "D:\\VS 2022\\APIDemo\\Controllers\\ValuesController.cs",
+              "DocumentMoniker": "D:\\demo\\BackEnd\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
-              "ToolTip": "D:\\VS 2022\\APIDemo\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\demo\\BackEnd\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "Controllers\\ValuesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
